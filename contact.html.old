@@ -1,107 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags always come first -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-
-    <title>Arkane Systems - Contact</title>
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
-  </head>
-  <body style="padding-top: 70px;">
-    <div class="container-fluid">
-        <nav class="navbar navbar-fixed-top navbar-light bg-faded">
-            <a class="navbar-brand" href="#"><strong>Arkane Systems / Alistair Young</strong></a>
-            <ul class="nav navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="/">Home</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="socialDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Social</a>
-                    <div class="dropdown-menu" aria-labelledby="socialDropdown">
-                        <a class="dropdown-item" href="https://plus.google.com/+AlistairCerebrateYoung">Google+</a>
-                        <a class="dropdown-item" href="https://twitter.com/cerebrate">Twitter</a>
-                    </div>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="softwareDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Software</a>
-                    <div class="dropdown-menu" aria-labelledby="softwareDropdown">
-                        <a class="dropdown-item" href="https://github.com/arkane-systems">Business Github</a>
-                        <a class="dropdown-item" href="https://github.com/cerebrate">Personal Github</a>
-                        <a class="dropdown-item" href="https://github.com/cerebrate/wsl-translinux">wsl-translinux repository</a>
-                    </div>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="writingDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Writing</a>
-                    <div class="dropdown-menu" aria-labelledby="writingDropdown">
-                        <a class="dropdown-item" href="https://www.amazon.com/Alistair-Young/e/B00A3957R4/">My Books (Amazon)</a>
-                        <a class="dropdown-item" href="https://eldraeverse.com/">The Eldraeverse <span class="tag tag-default">blog</span></a>
-                        <a class="dropdown-item" href="https://www.patreon.com/eldraeverse">The Eldraeverse Patreon</a>
-                        <a class="dropdown-item" href="https://plus.google.com/communities/109731085861921028487">Eldraeverse Fans <span class="tag tag-info">Google+</span></a>
-                    </div>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="/contact.html">Contact <span class="sr-only">(current)</span></a>
-                </li>
-            </ul>
-        </nav>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="alert alert-warning">
-                    <h4>Under Construction</h4>
-                    <p>Our web site is currently undergoing extensive redevelopment. Please bear with us while this is in progress.</p>
-                </div>
-                <div class="card-columns">
-                    <div class="card">
-                        <div class="card-header card-inverse card-primary">e-mail (business)</div>
-                        <div class="card-block">
-                            <p class="card-text"><a href="mailto:sales@arkane-systems.net">sales@arkane-systems.net</a></p>
-                            <p class="card-text"><a href="support@arkane-systems.net">support@arkane-systems.net</a></p>
-                        </div>
-                        <div class="card-block text-xs-right">
-                            <a href="mailto:arkane@arkane-systems.net" class="btn btn-primary">Send business e-mail</a>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header card-inverse card-primary">e-mail (personal)</div>
-                        <div class="card-block">
-                            <p class="card-text"><a href="mailto:avatar@arkane-systems.net">avatar@arkane-systems.net</a></p>
-                        </div>
-                        <div class="card-block text-xs-right">
-                            <a href="mailto:avatar@arkane-systems.net" class="btn btn-primary">Send personal e-mail</a>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header">github</div>
-                        <div class="card-block">
-                            <div class="github-card" data-user="cerebrate"></div>
-                            <script src="https://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-                        </div>
-                        <div class="card-block text-xs-right">
-                            <a href="https://github.com/cerebrate" class="btn btn-primary">Go to profile</a>
-                        </div>                     
-                    </div>
                     <div class="card">
                         <div class="card-header">goodreads</div>
                         <div class="card-block">
                             <p class="card-text">Alistair Young</p>
                         </div>
                     </div>
-                    <div class="card">
-                        <div class="card-header card-inverse card-danger">google+</div>
-                        <div class="card-block">
-                            <p class="card-text">Alistair "Cerebrate" Young</p>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header">linkedin</div>
-                        <div class="card-block">
-                            <p class="card-text">Alistair Young</p>
-                        </div>
-                    </div>
+
                     <div class="card">
                         <div class="card-header">pinterest</div>
                         <div class="card-block">
@@ -112,12 +15,7 @@
                             <a href="https://www.pinterest.com/eldraeverse/" class="btn btn-primary">Go to profile</a>
                         </div> 
                     </div>
-                    <div class="card">
-                        <div class="card-header">p-mail</div>
-                        <div class="card-block">
-                            <address><strong>Arkane Systems</strong><br/>1707 N Burns St.<br/>Wichita<br/>KS 67203<br/>United States of America</address>
-                        </div>
-                    </div>
+
                     <div class="card">
                         <div class="card-header">reddit</div>
                         <div class="card-block">
@@ -133,12 +31,7 @@
                             <p class="card-text">Athanasius Skytower</p>
                         </div>
                     </div>
-                    <div class="card">
-                        <div class="card-header">skype</div>
-                        <div class="card-block">
-                            <p class="card-text">avatar@arkane-systems.net</p>
-                        </div>
-                    </div>
+
                     <div class="card">
                         <div class="card-header">stack exchange</div>
                         <div class="card-block">
@@ -148,6 +41,7 @@
                             <a href="http://stackexchange.com/users/169886/cerebrate" class="btn btn-primary">Go to profile</a>
                         </div>
                     </div>
+
                     <div class="card">
                         <div class="card-header">twitter</div>
                         <div class="card-block">
@@ -158,6 +52,7 @@
                             <a href="https://twitter.com/cerebrate" class="btn btn-primary">Go to profile</a>
                         </div>
                     </div>
+
                     <div class="card">
                         <div class="card-header card-inverse card-success">xbox live</div>
                         <div class="card-block">
@@ -167,17 +62,3 @@
                             <a href="https://account.xbox.com/en-US/Profile?gamerTag=jungspielen" class="btn btn-success">Go to profile</a>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <nav class="navbar">
-            <p>&copy; 2016 Arkane Systems / Alistair J. R. Young. All rights reserved. Contact <a href="mailto:webmaster@arkane-systems.net">webmaster@arkane-systems.net</a> with any queries or errors.</p>
-        </nav>
-    </div>
-    
-    <!-- jQuery first, then Tether, then Bootstrap JS. -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js" integrity="sha384-XTs3FgkjiBgo8qjEjBk0tGmf3wPrWtA6coPfQDfFEY8AnYJwjalXCiosYRBIBZX8" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
-  </body>
-</html>
