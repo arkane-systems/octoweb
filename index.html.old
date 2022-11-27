@@ -17,24 +17,6 @@
                     </div>
                 </li>
 
-        <div class="row">
-            <div class="col-md-8">
-
-                <div class="card card-block card-inverse text-xs-center" style="width: 24rem; background-color: #333; border-color: #333; float: left; margin-right: 1rem;">
-                    <h4 class="card-title">Free As In Markets</h4>
-                    <p class="card-title">...but preferably not as in beer.</p>
-                    <p class="card-text">'Cause we've all got to make a living, right?</p>
-                    <p class="card-text">It's not compulsory, by any means, but if you enjoy or find useful my software, libraries, or services, throwing some money in the tip jar to encourage me to keep on providing them and to help defray my various costs would be very much appreciated.</p>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TCUN9RABYA5S8"><img src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate through PayPal" /></a></li>
-                        <li class="list-group-item"><a href="https://freewallet.org/id/cerebrate/btc">I also accept Bitcoin...</a></li>
-                        <li class="list-group-item"><a href="https://freewallet.org/id/cerebrate/doge">...Dogecoin...</a></li>
-                        <li class="list-group-item"><a href="https://freewallet.org/id/cerebrate/eth">...and Ethereum.</a></li>
-                    </ul>
-                    <p class="card-text">Those who came here for the books are directed instead towards <a href="https://www.patreon.com/eldraeverse">my authorial Patreon</a>, although regular donations towards that are also still appreciated.</p>
-
-
-
                 <h4>Quick Links</h4>
                 <ul>
                     <li><a href="https://github.com/cerebrate/arkane-base">Arkane.Base</a> <span class="tag tag-info">library</span><br/>Our main utility library, free for reuse.</li>
