@@ -1,0 +1,24 @@
+{
+  "subject": "acct:cerebrate@social.arkane-systems.net",
+  "expires": "0001-01-01T00:00:00Z",
+  "aliases": [
+    "https://social.arkane-systems.net/@cerebrate",
+    "https://social.arkane-systems.net/users/cerebrate"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://social.arkane-systems.net/@cerebrate"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://social.arkane-systems.net/users/cerebrate"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://social.arkane-systems.net/authorize_interaction?uri={uri}"
+    }
+  ]
+}
